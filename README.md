@@ -15,3 +15,10 @@
 - Todos los días
 
 ## Todo para mejorar cada día.👍
+
+| Comandos | Descripción |
+|--------- | ----------- |
+| mv | mover
+|rm | eliminar objetos como archivos y directorios|
+|cp | copiar archivos de una ubicación a otra|
+|cat | permite concatenar|
