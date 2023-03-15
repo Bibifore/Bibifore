@@ -18,7 +18,7 @@
 
 | Comandos | Descripción |
 |--------- | ----------- |
-| mv | Move|
+| mv | Mover|
 |rm | eliminar objetos como archivos y directorios|
 |cp | copiar archivos de una ubicación a otra|
 |cat | permite concatenar|
